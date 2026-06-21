@@ -1,0 +1,14 @@
+cache/
+
+**/*.rpyc
+**/*.rpymc
+
+log.txt
+
+errors.txt
+
+saves/
+
+persistent
+
+.vscode/
